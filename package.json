@@ -1,4 +1,6 @@
 {
-  "name": "FluentBuilder",
+  "name": "com.longtail.fluentBuilder",
+  "displayName": "FluentBuilder",
   "version": "0.0.1"
+
 }
