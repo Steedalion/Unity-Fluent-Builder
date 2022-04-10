@@ -1,6 +1,6 @@
 {
-    "name": "com.longtail.fluentBuilder",
-    "rootNamespace": "com.longtail.fluentBuilder",
+    "name": "com.longtailgames.fluentbuilder",
+    "rootNamespace": "com.longtailgames.fluentbuilder",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
