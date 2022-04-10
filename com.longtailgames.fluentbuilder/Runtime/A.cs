@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace com.longtail.fluentBuilder.Systems.Tests.TestBuilders.Runtime
+namespace com.longtailgames.fluentbuilder.Systems.Tests.TestBuilders.com.longtailgames.fluentbuilder.Runtime
 {
     public static class A
     {
