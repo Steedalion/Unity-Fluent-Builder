@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Tests
+namespace com.longtail.fluentBuilder.Systems.Tests.TestBuilders.Runtime
 {
     public class ComponentBuilder
     {

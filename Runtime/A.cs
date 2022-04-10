@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace Tests
+namespace com.longtail.fluentBuilder.Systems.Tests.TestBuilders.Runtime
 {
     public static class A
     {

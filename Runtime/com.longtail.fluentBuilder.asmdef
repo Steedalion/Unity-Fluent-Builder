@@ -1,0 +1,14 @@
+{
+    "name": "com.longtail.fluentBuilder",
+    "rootNamespace": "com.longtail.fluentBuilder",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
