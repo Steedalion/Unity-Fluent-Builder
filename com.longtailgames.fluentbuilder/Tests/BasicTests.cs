@@ -1,10 +1,10 @@
 using System.Collections;
-using com.longtailgames.fluentbuilder.Systems.Tests.TestBuilders.com.longtailgames.fluentbuilder.Runtime;
+using com.longtailgames.fluentbuilder.Runtime;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace Systems.Tests.TestBuilders.com.longtailgames.fluentbuilder.Tests
+namespace com.longatailgames.fluentBuilder.Test
 {
     public class BasicTests
     {

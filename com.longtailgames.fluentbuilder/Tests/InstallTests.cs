@@ -2,9 +2,8 @@ using System;
 using System.Collections;
 using NUnit.Framework;
 using UnityEditor.PackageManager;
-using UnityEngine.UIElements;
 
-namespace Systems.Tests.TestBuilders.com.longtailgames.fluentbuilder.Tests
+namespace com.longatailgames.fluentBuilder.Test
 {
     public class InstallTests
     {
