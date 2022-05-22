@@ -8,7 +8,8 @@ String together the construction of a gameobject, its components and position.
 `var go = A.go.With<Rigidbody>().Build();`
 
 Mostly used for testing 
-```mermaid
+```
+
     [UnityTest]
         public IEnumerator MulitAtAndWithA()
         {
@@ -22,7 +23,7 @@ Mostly used for testing
         }
 ```
 
-Use unity package manager.
+Use unity package manager. Unity -> Packages -> Add package from git URL -> enter http url.
 
-Unity -> Packages -> Add package from git URL -> enter http url.
-<img src=upm.png>
+
+<img src=upm.png , align=left>
